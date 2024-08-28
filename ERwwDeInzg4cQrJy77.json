@@ -37,7 +37,7 @@
         j.async = true;
         j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
         f.parentNode.insertBefore(j, f);
-      })(window, document, 'script', 'dataLayer', 'GTM-PL9CLBNJ');
+      })(window, document, 'script', 'dataLayer', 'GTM');
     </script>
     <!-- End Google Tag Manager -->
     <meta http-equiv="delegate-ch" content="sec-ch-ua https://anationperders.com/; sec-ch-ua-mobile https://anationperders.com/; sec-ch-ua-arch https://anationperders.com/; sec-ch-ua-model https://anationperders.com/; sec-ch-ua-platform https://anationperders.com/; sec-ch-ua-platform-version https://anationperders.com/; sec-ch-ua-bitness https://anationperders.com/; sec-ch-ua-full-version-list https://anationperders.com/; sec-ch-ua-full-version https://anationperders.com"><style>.dtpcnt{opacity: 0;}</style>
